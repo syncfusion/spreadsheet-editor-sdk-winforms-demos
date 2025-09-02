@@ -15,16 +15,16 @@ This section guides you to use the Syncfusion WinForms Spreadsheet Editor SDK ex
 
 In order to develop applications with the Syncfusion® Spreadsheet Editor WPF, you need to install any of the Visual Studio versions.
 
-Microsoft Visual Studio 2015
-Microsoft Visual Studio 2017
-Microsoft Visual Studio 2019
-Microsoft Visual Studio 2022
+* Microsoft Visual Studio 2015
+* Microsoft Visual Studio 2017
+* Microsoft Visual Studio 2019
+* Microsoft Visual Studio 2022
 
 Syncfusion® Spreadsheet Editor WPF supports the following .NET Framework and .NET versions
 
-.NET Framework 4.6.2
-.NET 8.0
-.NET 9.0
+* .NET Framework 4.6.2
+* .NET 8.0
+* .NET 9.0
 
 
 ### Key Features
