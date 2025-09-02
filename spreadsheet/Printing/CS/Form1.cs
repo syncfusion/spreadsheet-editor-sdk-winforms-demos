@@ -1,5 +1,4 @@
-﻿using DemoCommon.Grid;
-using Syncfusion.Windows.Forms;
+﻿using Syncfusion.Windows.Forms;
 using Syncfusion.Windows.Forms.Tools;
 using System;
 using System.Collections.Generic;
@@ -12,7 +11,7 @@ using System.Windows.Forms;
 
 namespace PrintingDemo
 {
-    public partial class Form1 : GridDemoForm
+    public partial class Form1 : MetroForm
     {
         /// <summary>
         /// The main entry point for the application.
@@ -20,7 +19,7 @@ namespace PrintingDemo
         [STAThread]
         static void Main()        
 		{
-	        Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense(Syncfusion.Licensing.DemoCommon.FindLicenseKey());
+	        Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(true);
             Application.Run(new Form1());

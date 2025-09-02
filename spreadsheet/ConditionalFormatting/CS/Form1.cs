@@ -18,7 +18,7 @@ namespace SpreadsheetDemo
         [STAThread]
         static void Main()        
 		{
-	        Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense(Syncfusion.Licensing.DemoCommon.FindLicenseKey());
+	        Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(true);
             Application.Run(new Form1());

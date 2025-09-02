@@ -55,7 +55,6 @@
     <Reference Include="Syncfusion.XlsIO.Base" />
     <Reference Include="Syncfusion.SpellChecker.Base" />
     <Reference Include="Syncfusion.Tools.Base" />
-    <Reference Include="DemoCommon" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.SqlServerCe, Version=3.5.1.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />

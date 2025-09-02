@@ -62,7 +62,6 @@
     <Reference Include="Syncfusion.Chart.Windows" />
     <Reference Include="Syncfusion.Chart.Base" />
     <Reference Include="Syncfusion.SfChart.WPF" />
-    <Reference Include="DemoCommon" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Form1.cs">

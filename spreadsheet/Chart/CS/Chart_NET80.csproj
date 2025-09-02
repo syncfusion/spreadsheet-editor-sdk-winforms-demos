@@ -33,9 +33,6 @@
     <Reference Include="Syncfusion.SpellChecker.Base">
       <HintPath>$(SyncfusionInstallLocation)\precompiledassemblies\net8.0\Syncfusion.SpellChecker.Base.dll</HintPath>
     </Reference>
-    <Reference Include="Syncfusion.Grid.Base">
-      <HintPath>$(SyncfusionInstallLocation)\precompiledassemblies\net8.0\Syncfusion.Grid.Base.dll</HintPath>
-    </Reference>
     <Reference Include="Syncfusion.Shared.Windows">
       <HintPath>$(SyncfusionInstallLocation)\precompiledassemblies\net8.0\Syncfusion.Shared.Windows.dll</HintPath>
     </Reference>
@@ -53,9 +50,6 @@
     </Reference>
     <Reference Include="Syncfusion.SfChart.WPF">
       <HintPath>$(SyncfusionInstallLocation)\precompiledassemblies\net8.0\Syncfusion.SfChart.WPF.dll</HintPath>
-    </Reference>
-    <Reference Include="DemoCommon">
-      <HintPath>$(SyncfusionInstallLocation)\precompiledassemblies\net8.0\DemoCommon.dll</HintPath>
     </Reference>
     <Reference Include="Syncfusion.Licensing">
       <HintPath>$(SyncfusionInstallLocation)\precompiledassemblies\net8.0\Syncfusion.Licensing.dll</HintPath>

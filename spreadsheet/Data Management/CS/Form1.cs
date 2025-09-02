@@ -5,7 +5,6 @@
 // licensing@syncfusion.com. Any infringement will be prosecuted under
 // applicable laws. 
 #endregion
-using DemoCommon.Grid;
 using System;
 using System.Data;
 using System.Windows.Forms;
@@ -16,7 +15,7 @@ using Syncfusion.Windows.Forms;
 
 namespace ImportDataTable
 {
-    public partial class Form1 : GridDemoForm
+    public partial class Form1 : MetroForm
     {
         /// <summary>
         /// The main entry point for the application.
@@ -24,7 +23,7 @@ namespace ImportDataTable
         [STAThread]
         static void Main()        
 		{
-	        Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense(Syncfusion.Licensing.DemoCommon.FindLicenseKey());
+	        Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(true);
             Application.Run(new Form1());

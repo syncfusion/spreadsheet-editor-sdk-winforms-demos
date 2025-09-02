@@ -47,7 +47,6 @@
     <Reference Include="Syncfusion.Grid.Base" />
     <Reference Include="Syncfusion.Shared.Windows" />
     <Reference Include="Syncfusion.Tools.Base" />
-    <Reference Include="DemoCommon" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

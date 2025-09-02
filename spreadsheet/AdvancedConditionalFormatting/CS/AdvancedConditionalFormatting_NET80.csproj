@@ -37,9 +37,6 @@
     <Reference Include="Syncfusion.Tools.Base">
       <HintPath>$(SyncfusionInstallLocation)\precompiledassemblies\net8.0\Syncfusion.Tools.Base.dll</HintPath>
     </Reference>
-    <Reference Include="DemoCommon">
-      <HintPath>$(SyncfusionInstallLocation)\precompiledassemblies\net8.0\DemoCommon.dll</HintPath>
-    </Reference>
     <Reference Include="Syncfusion.Licensing">
       <HintPath>$(SyncfusionInstallLocation)\precompiledassemblies\net8.0\Syncfusion.Licensing.dll</HintPath>
     </Reference>
