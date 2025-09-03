@@ -29,7 +29,7 @@ Syncfusion® Spreadsheet Editor WPF supports the following .NET Framework and .N
 
 ### Key Features
 
-#### WinForms PDF Viewer
+#### WinForms Spreadsheet Editor
 
 The WinForms Spreadsheet is an Excel-inspired control for creating, editing, viewing, and formatting Excel files without requiring Excel. It features an integrated ribbon UI, a powerful calculation engine with 400+ formulas, and supports advanced features such as:
 
