@@ -25,6 +25,7 @@ Syncfusion® Spreadsheet Editor WPF supports the following .NET Framework and .N
 * .NET Framework 4.6.2
 * .NET 8.0
 * .NET 9.0
+* .NET 10.0
 
 
 ### Key Features
@@ -51,13 +52,9 @@ Syncfusion has no liability for any damage or consequence that may arise by the 
 
 ## <a name="using-the-example"></a>Using the example ##
 
-The easiest way to use these samples without Git is to click `Download ZIP` on the repo page, then unzip the entire archive.
+* Open the **Spreadsheet** folder.
+* Choose any sample → CS → open the .NET Framework or .NET Core sample.sln file.
 
-**Important:**:
-
-* Before unzipping, right-click the archive, select Properties, and choose Unblock.
-* Unzip the entire archive—not just individual folders—as samples depend on the SharedContent folder.
-* If you unzip only parts, samples may not build due to missing references.
 
 ## <a name="documentation"></a>Documentation
 
