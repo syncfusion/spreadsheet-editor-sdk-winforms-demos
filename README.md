@@ -1,4 +1,4 @@
-# Syncfusion® Spreadsheet Editor SDK Winforms Demos   
+﻿# Syncfusion® Spreadsheet Editor SDK Winforms Demos   
 
 This repository contains the demos for the [Syncfusion® Spreadsheet Editor SDK for Winforms](https://www.syncfusion.com/spreadsheet-editor-sdk/winforms-spreadsheet-editor
 ). It is the best place to explore our Winforms Spreadsheet Editor control and gain insights into API usage. The Syncfusion Winforms Spreadsheet Editor is an Excel-inspired component that allows you to create, edit, view, and format Excel files without requiring Excel. The Winforms Spreadsheet SDK enables you to work with Microsoft Excel files natively within a Winforms application.
@@ -70,4 +70,4 @@ Syncfusion has no liability for any damage or consequence that may arise by the 
 * For any other queries, reach our [Syncfusion support team](https://www.syncfusion.com/support/directtrac/incidents/newincident?utm_source=github&utm_medium=listing) or post the queries through the [community forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing).
 
 * To renew the subscription, click [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing) or contact our sales team at <salessupport@syncfusion.com>.
-<p>Copyright © 2001-2026 Syncfusion, Inc. Updated on 2026-02-06 at precisely 17:12:36 EST.</p> 
+<p>Copyright © 2001-2026 Syncfusion, Inc. Updated on 2026-03-16 at precisely 15:10:13 EST.</p> 
