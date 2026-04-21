@@ -70,4 +70,4 @@ Syncfusion has no liability for any damage or consequence that may arise by the 
 * For any other queries, reach our [Syncfusion support team](https://www.syncfusion.com/support/directtrac/incidents/newincident?utm_source=github&utm_medium=listing) or post the queries through the [community forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing).
 
 * To renew the subscription, click [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing) or contact our sales team at <salessupport@syncfusion.com>.
-<p>Copyright © 2001-2026 Syncfusion, Inc. Updated on 2026-03-16 at precisely 15:10:13 EST.</p> 
+<p>Copyright © 2001-2026 Syncfusion, Inc. Updated on 2026-04-21 at precisely 16:37:21 EST.</p> 
